@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DreamCatcher</string>
+    <string name="dream_title_hint">Dream description goes here</string>
+    <string name="dream_title_label">Description</string>
+    <string name="dream_details_label">Details</string>
+    <string name="dream_deferred_label">Deferred</string>
+    <string name="dream_realized_label">Realized</string>
+    <string name="dream_date">Dream Date</string>
+    <string name="dream_comment">COMMENT</string>
+    <string name="dream_revealed">DREAM REVEALED</string>
+    <string name="dream_isRealized">DREAM REALIZED</string>
+    <string name="dream_isDeferred">DREAM DEFERRED</string>
+    <string name="dream_entry_0_button">Dream Entry 0</string>
+    <string name="dream_entry_1_button">Dream Entry 1</string>
+    <string name="dream_entry_2_button">Dream Entry 2</string>\
+    <string name="dream_entry_3_button">Dream Entry 3</string>
+    <string name="dream_entry_4_button">Dream Entry 4</string>
+    <string name="take_dream_photo">Take Dream Photo</string>
+    <string name="share_dream">Share Dream</string>
+    <string name="dream_report">My Dream</string>
+    <string name="send_report">Send dream report via</string>
+    <string name="nav_all_dream">All Dreams</string>
+    <string name="nav_active_dreams">Active Dreams</string>
+    <string name="nav_realized_dreams">Realized Dreams</string>
+    <string name="nav_deferred_dreams">Deferred Dreams</string>
+    <string name="new_dream">Add New Dream</string>
+    <string name="dream_entry_button">Dream Entry Button</string>
+    <string name="add_new_comment">Add New Comment</string>
+    <string name="new_comment">Add Comment</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="comment">Comment</string>
+    <string name="nav_header_name">Dream List Selection</string>
+    <string name="dreams_filter">Dreams Filter</string>
+</resources>
