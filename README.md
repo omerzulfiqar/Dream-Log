@@ -12,6 +12,4 @@ Features:
 - Add new comments
 - Update the status of the dreams, Realized or Deferred
 
-<img src="images/List.png" >  <img src="images/Detail.png" height=534 >  <img src="images/Selection.png" height=534> 
-# Dream-Log
-# Dream-Log
+<!--  img src="images/List.png" >  <img src="images/Detail.png" height=534 >  <img src="images/Selection.png" height=534>  --><
